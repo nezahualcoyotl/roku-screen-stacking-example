@@ -1,0 +1,18 @@
+# Channel Details
+title=VideoPlayer
+subtitle=Video Player Example
+major_version=1
+minor_verion=0
+build_version=1
+
+
+# Channel Assets
+mm_icon_focus_hd=pkg:/images/logo.png
+mm_icon_focus_sd=pkg:/images/logo.png
+
+# Splash Screen
+splash_screen_sd=pkg:/images/splash.png
+splash_screen_hd=pkg:/images/splash.png
+
+# Splash Screen
+ui_resolution=hd
